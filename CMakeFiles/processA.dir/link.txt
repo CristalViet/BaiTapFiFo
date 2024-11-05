@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/processA.dir/myfifo/processA.c.o -o processA

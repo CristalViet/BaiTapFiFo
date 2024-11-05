@@ -1,0 +1,5 @@
+/media/leducanhviet/New Volume/Project/myfifo_LEDUCANHVIET/build/CMakeFiles/processA.dir
+/media/leducanhviet/New Volume/Project/myfifo_LEDUCANHVIET/build/CMakeFiles/processB.dir
+/media/leducanhviet/New Volume/Project/myfifo_LEDUCANHVIET/build/CMakeFiles/create_fifo.dir
+/media/leducanhviet/New Volume/Project/myfifo_LEDUCANHVIET/build/CMakeFiles/edit_cache.dir
+/media/leducanhviet/New Volume/Project/myfifo_LEDUCANHVIET/build/CMakeFiles/rebuild_cache.dir
